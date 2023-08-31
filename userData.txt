@@ -1,0 +1,6 @@
+//put for 3 users
+
+[
+    {userID: "user987", reqID: "req536", time_stamp: 16543674.6542},
+    {userID: "user876", reqID: "req526", time_stamp: 16543694.6542},
+]
